@@ -84,6 +84,8 @@ reliable here?
 
 The statistics can overlap with other parts of the game, particularly real-time.
 
+Area|Notes
+----|-----
 Matchmaking|Matching players together for a compeitive match.
 Team balancing|Similar to above, but related to team games like TDM and CTF where team balance is important (and in CTF, roles are important. Player ratings might match up, but having no seasoned attackers on one team could skew the balance.)
 Tournament play|Enhancements to sanctioned competitions with organised teams and tournament structures (round robin, ladders, elimination etc)
